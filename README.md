@@ -119,4 +119,4 @@ This project is licensed under the Apache License - see the [LICENSE](LICENSE) f
 For any inquiries or issues, please contact:
 
 - **Akshit Kumar Tiwari** - [GitHub Profile](https://github.com/Akshitkt001)
-- **Email**: [your-email@example.com]
+- **Email**: [akstiwari307@gmail.com]
