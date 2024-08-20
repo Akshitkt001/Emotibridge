@@ -13,7 +13,11 @@
 
 ### Demo Video
 
-![Emotibridge Demo](https://example.com/demo-video-link)
+
+
+https://github.com/user-attachments/assets/37410f3f-5e7f-40f0-abb2-2abbb509d09e
+
+
 
 ### Emotibridge Executable File Download
 
