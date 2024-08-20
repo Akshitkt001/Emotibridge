@@ -23,19 +23,7 @@ https://github.com/user-attachments/assets/005b1074-ad8c-4cd8-8815-43a7e3446f16
 ### Results
 | Original(English) | Hindi | French |
 |---------------|---------------|---------------|
-| 
-
-https://github.com/user-attachments/assets/0399894a-fed3-41b9-81c0-c01c241f6332
-
- |
-
-https://github.com/user-attachments/assets/de7cb253-c37c-4bc8-b5a7-8082944447b6
-
- | 
-
-https://github.com/user-attachments/assets/ed713cd0-2f8e-444f-91c8-af81ac106cb5
-
- |
+| https://github.com/user-attachments/assets/0399894a-fed3-41b9-81c0-c01c241f6332|https://github.com/user-attachments/assets/de7cb253-c37c-4bc8-b5a7-8082944447b6| https://github.com/user-attachments/assets/ed713cd0-2f8e-444f-91c8-af81ac106cb5|
 
 ### Emotibridge Executable File Download
 
