@@ -4,18 +4,38 @@
 
 **Emotibridge** is an advanced video processing application designed to enhance video content by removing background noise, transcribing and translating audio, and generating speech from translated text. This application leverages state-of-the-art machine learning models and various Python libraries to deliver high-quality results.
 
+
+
+### Demo Video
+
+
+https://github.com/user-attachments/assets/005b1074-ad8c-4cd8-8815-43a7e3446f16
+
+
+
 ### Features
 
 - **Background Noise Removal**: Clean audio by removing unwanted background noise.
 - **Transcription and Translation**: Convert audio to text and translate it into multiple languages.
 - **Speech Generation**: Generate speech from translated text.
 - **User Interface**: Interactive UI with progress indicators and text editing capabilities.
+- 
+### Results
+| Original(English) | Hindi | French |
+|---------------|---------------|---------------|
+| 
 
-### Demo Video
+https://github.com/user-attachments/assets/0399894a-fed3-41b9-81c0-c01c241f6332
 
+ |
 
-https://github.com/user-attachments/assets/54845534-04f4-4208-ad58-d07cd14dd640
+https://github.com/user-attachments/assets/de7cb253-c37c-4bc8-b5a7-8082944447b6
 
+ | 
+
+https://github.com/user-attachments/assets/ed713cd0-2f8e-444f-91c8-af81ac106cb5
+
+ |
 
 ### Emotibridge Executable File Download
 
