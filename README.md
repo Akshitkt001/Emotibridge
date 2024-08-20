@@ -17,7 +17,7 @@
 
 ### Emotibridge Executable File Download
 
-![Emotibridge.exe Download](https://drive.google.com/drive/folders/1QQdvWoz-L8hRkSZxtkU-mVLI2r5smmSJ?usp=sharing)
+[Emotibridge.exe Download](https://drive.google.com/drive/folders/1QQdvWoz-L8hRkSZxtkU-mVLI2r5smmSJ?usp=sharing)
 
 ## Technologies Used
 
