@@ -14,14 +14,17 @@
 ### Demo Video
 
 
-
-https://github.com/user-attachments/assets/37410f3f-5e7f-40f0-abb2-2abbb509d09e
-
+https://github.com/user-attachments/assets/54845534-04f4-4208-ad58-d07cd14dd640
 
 
 ### Emotibridge Executable File Download
 
 [Emotibridge.exe Download](https://drive.google.com/drive/folders/1QQdvWoz-L8hRkSZxtkU-mVLI2r5smmSJ?usp=sharing)
+
+
+### FFMPEG executable download
+[FFMPEG.exe Download](https://drive.google.com/drive/folders/1QQdvWoz-L8hRkSZxtkU-mVLI2r5smmSJ?usp=sharing)
+
 
 ## Technologies Used
 
